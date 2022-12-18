@@ -1,4 +1,4 @@
-# dicionario
+# Dicionário
 
 ## Projeto final do cuso EuProgramo Front-End II da Programaria
 
